@@ -1,0 +1,2 @@
+# ilkrepo
+İlk iyidir.
